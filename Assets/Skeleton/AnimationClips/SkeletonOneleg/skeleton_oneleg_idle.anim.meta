@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: adba7c78ebdf141d9a7904ea54277a04
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/AnimationClips/SkeletonOneleg/skeleton_oneleg_idle.anim
+  uploadId: 556633

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6d041c1ea06149dc82db3c073ca3b98
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/AnimationClips/SkeletonHead/skeleton_head_faint.anim
+  uploadId: 556633

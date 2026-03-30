@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf3b90e1d6cb24e6ca42076e0298252d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/AnimationClips/SkeletonOneleg/skeleton_oneleg_jump.anim
+  uploadId: 556633

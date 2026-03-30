@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 48ee388019d33417085a3b6e396bb36d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/Scenes/DemoSkeleton.unity
+  uploadId: 556633

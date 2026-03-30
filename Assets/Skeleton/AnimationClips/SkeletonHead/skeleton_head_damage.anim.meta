@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d88f87421d2a4ad79ef38b481e708fb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/AnimationClips/SkeletonHead/skeleton_head_damage.anim
+  uploadId: 556633

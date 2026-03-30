@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6beb9de6200444059c4421499dca607
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/Prefabs/parts/skeleton_hand.prefab
+  uploadId: 556633

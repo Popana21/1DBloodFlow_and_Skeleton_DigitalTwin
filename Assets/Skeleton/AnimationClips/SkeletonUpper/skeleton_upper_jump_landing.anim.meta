@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42219ca7277b0481fb195d72ecba4789
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/AnimationClips/SkeletonUpper/skeleton_upper_jump_landing.anim
+  uploadId: 556633

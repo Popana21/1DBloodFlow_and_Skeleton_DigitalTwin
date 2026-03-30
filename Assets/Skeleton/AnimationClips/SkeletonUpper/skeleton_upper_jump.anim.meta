@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b20db675956e417e90424bd1921d253
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/AnimationClips/SkeletonUpper/skeleton_upper_jump.anim
+  uploadId: 556633

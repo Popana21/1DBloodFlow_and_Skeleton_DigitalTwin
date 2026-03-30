@@ -1,0 +1,170 @@
+﻿@startuml
+title OpenBF Vessel Tree (from vessels.json)
+top to bottom direction
+skinparam linetype polyline
+skinparam shadowing false
+skinparam packageStyle rectangle
+skinparam nodesep 18
+skinparam ranksep 26
+
+' Auto-generated from Assets/StreamingAssets/vessels.json
+' Direction hints: *_R tends to left, *_L tends to right, central trunk tends downward.
+
+circle "1" as N1
+circle "2" as N2
+circle "3" as N3
+circle "4" as N4
+circle "5" as N5
+circle "6" as N6
+circle "7" as N7
+circle "8" as N8
+circle "9" as N9
+circle "10" as N10
+circle "11" as N11
+circle "12" as N12
+circle "13" as N13
+circle "14" as N14
+circle "15" as N15
+circle "16" as N16
+circle "17" as N17
+circle "18" as N18
+circle "19" as N19
+circle "20" as N20
+circle "21" as N21
+circle "22" as N22
+circle "23" as N23
+circle "24" as N24
+circle "25" as N25
+circle "26" as N26
+circle "27" as N27
+circle "28" as N28
+circle "29" as N29
+circle "30" as N30
+circle "31" as N31
+circle "32" as N32
+circle "33" as N33
+circle "34" as N34
+circle "35" as N35
+circle "36" as N36
+circle "37" as N37
+circle "38" as N38
+circle "39" as N39
+circle "40" as N40
+circle "41" as N41
+circle "42" as N42
+circle "43" as N43
+circle "44" as N44
+circle "45" as N45
+circle "46" as N46
+circle "47" as N47
+circle "48" as N48
+circle "49" as N49
+circle "50" as N50
+circle "51" as N51
+circle "52" as N52
+circle "53" as N53
+circle "54" as N54
+circle "55" as N55
+circle "56" as N56
+circle "57" as N57
+circle "58" as N58
+circle "59" as N59
+circle "60" as N60
+circle "61" as N61
+circle "62" as N62
+circle "63" as N63
+circle "64" as N64
+circle "65" as N65
+circle "66" as N66
+circle "67" as N67
+circle "68" as N68
+circle "69" as N69
+circle "70" as N70
+circle "71" as N71
+circle "72" as N72
+circle "73" as N73
+circle "74" as N74
+circle "75" as N75
+circle "76" as N76
+circle "77" as N77
+circle "78" as N78
+
+' Edges
+N1 -down-> N2 : aortic_arch_I
+N2 --> N3 : brachiocephalic_trunk
+N2 -down-> N4 : aortic_arch_II
+N3 -left-> N5 : subclavian_R_I
+N3 -left-> N6 : common_carotid_R
+N5 -left-> N7 : vertebral_R
+N5 -left-> N8 : subclavian_R_II
+N8 -left-> N9 : axillary_R
+N9 -left-> N10 : brachial_R
+N10 -left-> N11 : radial_R
+N10 -left-> N12 : ulnar_R_I
+N12 -left-> N13 : common_interosseous_R
+N12 -left-> N14 : ulnar_R_II
+N13 -left-> N15 : posterior_interosseous_R
+N6 -left-> N16 : external_carotid_R
+N6 -left-> N17 : internal_carotid_R
+N4 -right-> N18 : common_carotid_L
+N4 -down-> N19 : aortic_arch_III
+N18 -right-> N20 : external_carotid_L
+N18 -right-> N21 : internal_carotid_L
+N19 -right-> N22 : subclavian_L_I
+N19 -down-> N23 : aortic_arch_IV
+N22 -right-> N24 : vertebral_L
+N22 -right-> N25 : subclavian_L_II
+N25 -right-> N26 : axillary_L
+N26 -right-> N27 : brachial_L
+N27 -right-> N28 : radial_L
+N27 -right-> N29 : ulnar_L_I
+N29 -right-> N30 : common_interosseous_L
+N29 -right-> N31 : ulnar_L_II
+N30 -right-> N32 : posterior_interosseous_L
+N23 -down-> N33 : thoracic_aorta_I
+N33 -left-> N34 : posterior_intercostal_T6_R
+N33 -down-> N35 : thoracic_aorta_II
+N35 -right-> N36 : posterior_intercostal_T6_L
+N35 -down-> N37 : thoracic_aorta_III
+N37 -left-> N38 : posterior_intercostal_T7_R
+N37 -down-> N39 : thoracic_aorta_IV
+N39 -right-> N40 : posterior_intercostal_T7_L
+N39 -down-> N41 : thoracic_aorta_V
+N41 -down-> N42 : thoracic_aorta_VI
+N42 --> N43 : celiac_trunk
+N42 -down-> N44 : abdominal_aorta_I
+N43 --> N45 : common_hepatic
+N43 --> N46 : splenic_I
+N46 --> N47 : left_gastric
+N46 --> N48 : splenic_II
+N44 --> N49 : superior_mesenteric
+N44 -down-> N50 : abdominal_aorta_II
+N50 -right-> N51 : renal_L
+N50 -down-> N52 : abdominal_aorta_III
+N52 -left-> N53 : renal_R
+N52 -down-> N54 : abdominal_aorta_IV
+N54 --> N55 : inferior_mesenteric
+N54 -down-> N56 : abdominal_aorta_V
+N56 -left-> N57 : common_iliac_R
+N56 -right-> N58 : common_iliac_L
+N57 -left-> N59 : external_iliac_R
+N57 -left-> N60 : internal_iliac_R
+N59 -left-> N61 : femoral_R_I
+N61 -left-> N62 : profunda_femoris_R
+N61 -left-> N63 : femoral_R_II
+N63 -left-> N64 : popliteal_R_I
+N64 -left-> N65 : anterior_tibial_R
+N64 -left-> N66 : popliteal_R_II
+N66 -left-> N67 : tibiofibular_trunk_R
+N67 -left-> N68 : posterior_tibial_R
+N58 -right-> N69 : external_iliac_L
+N58 -right-> N70 : internal_iliac_L
+N69 -right-> N71 : femoral_L_I
+N71 -right-> N72 : profunda_femoris_L
+N71 -right-> N73 : femoral_L_II
+N73 -right-> N74 : popliteal_L_I
+N74 -right-> N75 : anterior_tibial_L
+N74 -right-> N76 : popliteal_L_II
+N76 -right-> N77 : tibiofibular_trunk_L
+N77 -right-> N78 : posterior_tibial_L
+@enduml

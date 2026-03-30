@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82fd6bd186cff45bb8f4835acc4aaca4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/AnimationClips/SkeletonCrawl/skeleton_crawl_throw.anim
+  uploadId: 556633

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1cc4712e3490402f9063e2676f4654a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/AnimationClips/SkeletonNormal/skeleton_normal_move_run0.anim
+  uploadId: 556633

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 211250bd0b7c54fc190c93dbca6a6590
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/AnimationClips/SkeletonCrawl/skeleton_crawl_standup.anim
+  uploadId: 556633

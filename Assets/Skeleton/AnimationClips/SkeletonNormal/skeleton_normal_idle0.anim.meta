@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d54dc428e896d430b9c11a5a4fea4c04
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/AnimationClips/SkeletonNormal/skeleton_normal_idle0.anim
+  uploadId: 556633

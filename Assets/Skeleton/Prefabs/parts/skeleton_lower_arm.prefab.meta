@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4314da0d153364a68b2816d0cfd9828e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/Prefabs/parts/skeleton_lower_arm.prefab
+  uploadId: 556633

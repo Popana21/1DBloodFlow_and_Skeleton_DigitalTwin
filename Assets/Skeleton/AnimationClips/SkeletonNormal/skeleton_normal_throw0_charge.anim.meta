@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d234e22880a64ee38d1ab78e232bc88
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/AnimationClips/SkeletonNormal/skeleton_normal_throw0_charge.anim
+  uploadId: 556633

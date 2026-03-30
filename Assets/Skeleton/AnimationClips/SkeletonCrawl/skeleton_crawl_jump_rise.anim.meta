@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 96c6d62fd352c4e4397f409006fad02c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/AnimationClips/SkeletonCrawl/skeleton_crawl_jump_rise.anim
+  uploadId: 556633

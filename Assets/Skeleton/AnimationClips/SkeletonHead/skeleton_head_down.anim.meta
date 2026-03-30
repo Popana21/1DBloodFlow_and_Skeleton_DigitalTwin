@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c6f99b0693a94709a0a84643267f910
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/AnimationClips/SkeletonHead/skeleton_head_down.anim
+  uploadId: 556633

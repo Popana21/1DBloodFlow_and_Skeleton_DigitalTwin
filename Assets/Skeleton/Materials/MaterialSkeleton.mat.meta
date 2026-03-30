@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7cbc0994a74db4ca8a8f7e97cfcc6d1b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/Materials/MaterialSkeleton.mat
+  uploadId: 556633

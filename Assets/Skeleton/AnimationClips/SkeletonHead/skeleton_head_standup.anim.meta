@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8fa59a408219747c6954d26f3eba87bc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/AnimationClips/SkeletonHead/skeleton_head_standup.anim
+  uploadId: 556633

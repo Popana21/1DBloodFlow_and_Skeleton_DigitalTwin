@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 774492054c84f4b839fc65277c507b4b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/Prefabs/parts/skeleton_upper_arm.prefab
+  uploadId: 556633

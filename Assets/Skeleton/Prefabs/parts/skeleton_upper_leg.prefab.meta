@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3d781316eaab4476da3386fc202a0585
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/Prefabs/parts/skeleton_upper_leg.prefab
+  uploadId: 556633

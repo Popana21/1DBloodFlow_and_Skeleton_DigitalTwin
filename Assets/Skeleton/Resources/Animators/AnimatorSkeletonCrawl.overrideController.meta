@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 070c046befdcb4cea9d7160f0528b170
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/Resources/Animators/AnimatorSkeletonCrawl.overrideController
+  uploadId: 556633

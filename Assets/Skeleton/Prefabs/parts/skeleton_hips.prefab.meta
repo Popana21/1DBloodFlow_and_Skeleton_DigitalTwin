@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a9289cd3b5d144e09b10606bb720f785
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/Prefabs/parts/skeleton_hips.prefab
+  uploadId: 556633

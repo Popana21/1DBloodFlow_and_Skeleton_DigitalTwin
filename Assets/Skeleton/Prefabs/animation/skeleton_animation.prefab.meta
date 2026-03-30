@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c665091dca90644aeb8209a20c490535
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/Prefabs/animation/skeleton_animation.prefab
+  uploadId: 556633

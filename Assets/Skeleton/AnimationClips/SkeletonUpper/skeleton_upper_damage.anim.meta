@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c00038ef5c43d49719379eecff14bdee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/AnimationClips/SkeletonUpper/skeleton_upper_damage.anim
+  uploadId: 556633

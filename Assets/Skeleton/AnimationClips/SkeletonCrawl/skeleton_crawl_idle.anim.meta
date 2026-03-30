@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4a743a58c9904c07aa3df3f86c0cc78
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/AnimationClips/SkeletonCrawl/skeleton_crawl_idle.anim
+  uploadId: 556633

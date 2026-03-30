@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f06b8542d8a347a89460a7b3d07138b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243927
+  packageName: Skeleton 3D Humanoid rig
+  packageVersion: 1.0
+  assetPath: Assets/Skeleton/Resources/Animators/AnimatorSkeletonOneleg.overrideController
+  uploadId: 556633
