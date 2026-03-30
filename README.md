@@ -120,16 +120,18 @@ In particular, check:
 - the `openBF` benchmark YAML path
 - the expected Unity player executable path
 
-At the time of writing, the workflow expects the benchmark YAML at a path similar to:
+The benchmark YAML file is expected to be located inside the local Julia package directory for `openBF`, for example:
 
 ```text
-C:\Users\User\.julia\packages\openBF\...\models\boileau2015\adan56\adan56.yaml
+C:\Users\<USERNAME>\.julia\packages\openBF\<OPENBF_VERSION>\models\boileau2015\adan56\adan56.yaml
 ```
 
-and the built Unity executable at either:
+The exact path may vary depending on the local Julia package installation and the installed `openBF` version.
+
+Likewise, the Unity player executable is expected either at a fixed path such as:
 
 ```text
-C:\Users\User\ECS_1DBloodFlowVisualization.exe
+C:\Users\<USERNAME>\ECS_1DBloodFlowVisualization.exe
 ```
 
 or the newest `.exe` found under:
@@ -270,4 +272,3 @@ pip install pyyaml
 ## Citation / Thesis Context
 
 This repository contains the software artifact developed for a master's thesis on integrating 1D blood flow simulation and skeletal anatomy within a digital twin visualization environment.
-
