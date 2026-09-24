@@ -2,6 +2,10 @@
 
 Unity-based visualization framework for 1D blood flow simulation data mapped onto an anatomical skeleton within a digital twin environment.
 
+## Demo Video
+
+[▶ Watch the blood flow visualization demo on YouTube](https://youtu.be/j13sAnd9ink)
+
 ## Overview
 
 This project combines:
